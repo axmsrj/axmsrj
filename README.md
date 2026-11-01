@@ -7,6 +7,6 @@
   <br/><br/>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,swift,c,cpp,cs,svelte,apple,linux,mysql,postgres,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,ts,swift,cpp,svelte,apple,linux,mysql,postgres,docker&perline=14" />
   </a>
 </div>
